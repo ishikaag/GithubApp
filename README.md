@@ -8,9 +8,10 @@ This application features:
 
 5. Pagination (incomplete)
 
-## Know bug
+## Known bug
 The application currently require user to refresh the page every time he switches between search and showAll. I am currently working on the fix. Please find the contact information below for any questions.
 
 ## Author
 Author: Ishika Agarwal
+
 contact: ishikaag@buffalo.edu
