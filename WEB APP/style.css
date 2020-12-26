@@ -1,0 +1,18 @@
+body{
+background-image: url(https://i1.wp.com/codemyui.com/wp-content/uploads/2016/11/pure-css-snow-animation.gif?fit=880%2C440&ssl=1);
+}
+h1{
+    background-color: rgba(247, 241, 241, 0.199);
+}
+div{
+    display: block;
+    margin-left: 20px;
+    margin-right: auto;
+    width: 50%;
+
+}
+footer{
+    background-color: lightgrey;
+    color: grey;
+    bottom: 0%;
+}
